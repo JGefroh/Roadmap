@@ -12,11 +12,13 @@ The Phoenix Project | Kim, Gene
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
 
+---
 ### Currently reading
 Title | Author
 :-------- | :-----
 What got you here won't get you there | Goldsmith, Marshall
 
+---
 ### Books I've read
 
 ##### Business Strategy
@@ -25,7 +27,8 @@ Title | Author | Rating
 Growth Hacker Marketing | Holiday, Ryan | 3
 The Lean Startup | Eric Ries | 4
 The Wide Lens | Ron Adner | 5
----
+
+
 ##### Management and Leadership
 Title | Author | Rating
 :-------- | :----- | :-------
@@ -40,7 +43,7 @@ The Mythical Man Month: Essays on Software Engineering | Brooks Jr., Frederick |
 The One Thing You Need to Know | Buckingham, Marcus | 3
 Turn the Ship Around!: A True Story of Turning Followers into Leaders | Marquet, David | 5
 
----
+
 ##### Professional Development
 Title | Author | Rating
 :-------- | :----- | :-------
@@ -59,7 +62,7 @@ The Developer's Code | Ka Wai Cheung | 5
 The Passionate Programmer: Creating a Remarkable Career in Software Development | Fowler, Chad | 3
 The Pragmatic Programmer: From Journeyman to Master | Hunt, Andrew | 5
 
----
+
 ##### Coding
 Title | Author | Rating
 :-------- | :-----  | :-------
@@ -71,7 +74,8 @@ Working Effectively with Legacy Code | Feathers, Michael | 3
 HTML and CSS: Design and Build Websites | Duckett, Jon | 2
 Javascript: The Good Parts | Crockford, Douglas | 3
 JavaScript and JQuery: Interactive Front-End Web Development | Duckett, Jon | 2
----
+
+
 ##### UX
 Title | Author | Rating
 :-------- | :-----  | :-------
@@ -88,7 +92,7 @@ Simple and Usable Web, Mobile, and Interaction Design (Voices That Matter) | Col
 The Design of Everyday Things | Norman, Donald | 3
 Usable Usability: Simple Steps for Making Stuff Better | Reiss, Eric | 5
 
----
+
 ##### Software Development Processes
 Title | Author | Rating
 :-------- | :----- | :-------
@@ -97,7 +101,7 @@ Software Project Survival Guide | McConnell, Steve | 3
 The Agile Samurai: How Agile Masters Deliver Great Software | Rasmusson, Jonathan | 5
 The Art of Agile Development | Shore, James | 4
 
----
+
 ##### Architecture / Design
 Title | Author | Rating
 :-------- | :----- | :-------
@@ -105,5 +109,3 @@ Patterns of Enterprise Application Architecture | Fowler, Martin | 5
 Implementing Domain-Driven Design | Vernon, Vaughn | 4
 SQL Antipatterns: Avoiding the Pitfalls of Database Programming | Karwin, Bill | 5
 Web Scalability for Startup Engineers | 	Ejsmont, Artur | 5
-
----
