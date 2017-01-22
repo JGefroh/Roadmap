@@ -16,7 +16,6 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
-What got you here won't get you there | Goldsmith, Marshall
 
 ---
 ### Books I've read
@@ -61,6 +60,7 @@ The Clean Coder: A Code of Conduct for Professional Programmers | Martin, Robert
 The Developer's Code | Ka Wai Cheung | 5
 The Passionate Programmer: Creating a Remarkable Career in Software Development | Fowler, Chad | 3
 The Pragmatic Programmer: From Journeyman to Master | Hunt, Andrew | 5
+What got you here won't get you there | Goldsmith, Marshall | 5
 
 
 ##### Coding
