@@ -8,7 +8,6 @@ Here's a list of books I've read/been reading/will read. Any book/priority sugge
 ### Planning to read
 Title | Author
 :-------- | :-----
-The Phoenix Project | Kim, Gene
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
 
@@ -100,6 +99,7 @@ Extreme Programming Explained: Embrace Change | Beck, Kent | 5
 Software Project Survival Guide | McConnell, Steve | 3
 The Agile Samurai: How Agile Masters Deliver Great Software | Rasmusson, Jonathan | 5
 The Art of Agile Development | Shore, James | 4
+The Phoenix Project | Kim, Gene | 5
 
 
 ##### Architecture / Design
