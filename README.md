@@ -8,6 +8,8 @@ Here's a list of books I've read/been reading/will read. Any book/priority sugge
 ### Planning to read
 Title | Author
 :-------- | :-----
+Tools of the Titans | Ferris, Timothy
+The 4-hour Chef | Ferris, Timothy
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
 
@@ -15,6 +17,7 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
+Managing Humans | Lopp, Michael
 
 ---
 ### Books I've read
@@ -32,6 +35,7 @@ Title | Author | Rating
 :-------- | :----- | :-------
 First, Break All the Rules | Buckingham, Marcus | 5
 Corps Business: The 30 Management Principles of the U.S. Marines | Freedman, David | 5
+Debugging Teams: Better Productivity Through Collaboration | Fitzpatrick, Brian | 5
 Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Sinek, Simon | 5
 Peopleware: Productive Projects and Teams | DeMarco, Tom | 5
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency | DeMarco, Tom | 3
