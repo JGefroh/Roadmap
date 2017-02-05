@@ -17,7 +17,6 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
-Managing Humans | Lopp, Michael
 
 ---
 ### Books I've read
@@ -37,6 +36,7 @@ First, Break All the Rules | Buckingham, Marcus | 5
 Corps Business: The 30 Management Principles of the U.S. Marines | Freedman, David | 5
 Debugging Teams: Better Productivity Through Collaboration | Fitzpatrick, Brian | 5
 Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Sinek, Simon | 5
+Managing Humans | Lopp, Michael | 3
 Peopleware: Productive Projects and Teams | DeMarco, Tom | 5
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency | DeMarco, Tom | 3
 The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded | Watkins, Michael D. | 2
