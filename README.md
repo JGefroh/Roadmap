@@ -8,7 +8,6 @@ Here's a list of books I've read/been reading/will read. Any book/priority sugge
 ### Planning to read
 Title | Author
 :-------- | :-----
-Tools of the Titans | Ferris, Timothy
 The 4-hour Chef | Ferris, Timothy
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
@@ -17,6 +16,7 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
+Tools of Titans | Ferris, Timothy
 
 ---
 ### Books I've read
