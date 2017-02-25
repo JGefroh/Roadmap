@@ -16,7 +16,6 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
-Tools of Titans | Ferris, Timothy
 
 ---
 ### Books I've read
@@ -63,6 +62,7 @@ The Clean Coder: A Code of Conduct for Professional Programmers | Martin, Robert
 The Developer's Code | Ka Wai Cheung | 5
 The Passionate Programmer: Creating a Remarkable Career in Software Development | Fowler, Chad | 3
 The Pragmatic Programmer: From Journeyman to Master | Hunt, Andrew | 5
+Tools of Titans | Ferris, Timothy | 3
 What Got You Here Won't Get You There | Goldsmith, Marshall | 3
 
 
