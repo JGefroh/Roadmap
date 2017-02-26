@@ -11,11 +11,16 @@ Title | Author
 The 4-hour Chef | Ferris, Timothy
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
+Zero to One | Thiel, Peter
+Venture Deals | Feld, Brad
+Scaling Teams | Grosse, Alexander
+The 7 Habits of Highly Effective People | Covey, Stephen
 
 ---
 ### Currently reading
 Title | Author
 :-------- | :-----
+The Hard Thing About Hard Things | Horowitz, Ben
 
 ---
 ### Books I've read
