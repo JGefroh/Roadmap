@@ -20,7 +20,6 @@ The 7 Habits of Highly Effective People | Covey, Stephen
 ### Currently reading
 Title | Author
 :-------- | :-----
-The Hard Thing About Hard Things | Horowitz, Ben
 
 ---
 ### Books I've read
@@ -29,6 +28,7 @@ The Hard Thing About Hard Things | Horowitz, Ben
 Title | Author | Rating
 :-------- | :----- | :-------
 Growth Hacker Marketing | Holiday, Ryan | 3
+The Hard Thing About Hard Things | Horowitz, Ben | 5
 The Lean Startup | Eric Ries | 4
 The Wide Lens | Ron Adner | 5
 
