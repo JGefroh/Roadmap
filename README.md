@@ -11,7 +11,6 @@ Title | Author
 The 4-hour Chef | Ferris, Timothy
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
-Zero to One | Thiel, Peter
 Venture Deals | Feld, Brad
 The 7 Habits of Highly Effective People | Covey, Stephen
 
@@ -19,7 +18,7 @@ The 7 Habits of Highly Effective People | Covey, Stephen
 ### Currently reading
 Title | Author
 :-------- | :-----
-Scaling Teams | Grosse, Alexander
+Zero to One | Thiel, Peter
 
 ---
 ### Books I've read
@@ -42,6 +41,7 @@ Debugging Teams: Better Productivity Through Collaboration | Fitzpatrick, Brian 
 Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Sinek, Simon | 5
 Managing Humans | Lopp, Michael | 3
 Peopleware: Productive Projects and Teams | DeMarco, Tom | 5
+Scaling Teams | Grosse, Alexander | 5
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency | DeMarco, Tom | 3
 The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded | Watkins, Michael D. | 2
 The Five Dysfunctions of a Team | Lencioni, Patrick | 4
