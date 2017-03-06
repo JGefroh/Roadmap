@@ -18,7 +18,6 @@ The 7 Habits of Highly Effective People | Covey, Stephen
 ### Currently reading
 Title | Author
 :-------- | :-----
-Zero to One | Thiel, Peter
 
 ---
 ### Books I've read
@@ -30,6 +29,7 @@ Growth Hacker Marketing | Holiday, Ryan | 3
 The Hard Thing About Hard Things | Horowitz, Ben | 5
 The Lean Startup | Eric Ries | 4
 The Wide Lens | Ron Adner | 5
+Zero to One | Thiel, Peter | 5
 
 
 ##### Management and Leadership
