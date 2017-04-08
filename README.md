@@ -8,16 +8,16 @@ Here's a list of books I've read/been reading/will read. Any book/priority sugge
 ### Planning to read
 Title | Author
 :-------- | :-----
-The 4-hour Chef | Ferris, Timothy
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
-Venture Deals | Feld, Brad
-The 7 Habits of Highly Effective People | Covey, Stephen
 
 ---
 ### Currently reading
 Title | Author
 :-------- | :-----
+The 4-hour Chef | Ferris, Timothy
+The 7 Habits of Highly Effective People | Covey, Stephen
+Venture Deals | Feld, Brad
 
 ---
 ### Books I've read
