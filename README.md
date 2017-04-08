@@ -38,6 +38,7 @@ Title | Author | Rating
 First, Break All the Rules | Buckingham, Marcus | 5
 Corps Business: The 30 Management Principles of the U.S. Marines | Freedman, David | 5
 Debugging Teams: Better Productivity Through Collaboration | Fitzpatrick, Brian | 5
+High Output Management | Grove, Andrew S. | 4
 Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Sinek, Simon | 5
 Managing Humans | Lopp, Michael | 3
 Peopleware: Productive Projects and Teams | DeMarco, Tom | 5
@@ -59,7 +60,7 @@ Go Put Your Strengths to Work | Buckingham, Marcus | 2
 How to Talk to Anyone | Leil Lowndes | 5
 How to Win Friends and Influence People | Dale Carnegie | 2
 Land the Tech Job You Love | Lester, Andy | 2
-Man's Search for Meaning | Frankl, Viktor | 5
+Man's Search for Meaning | Frankl, Viktor E. | 5
 Now, Discover Your Strengths | Buckingham, Marcus | 5
 Outliers: The Story of Success | Gladwell, Malcolm | 4
 Practices of an Agile Developer: Working in the Real World | Venkat Subramaniam | 4
