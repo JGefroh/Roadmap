@@ -50,7 +50,7 @@ The One Thing You Need to Know | Buckingham, Marcus | 3
 Turn the Ship Around!: A True Story of Turning Followers into Leaders | Marquet, David | 5
 
 
-##### Professional Development
+##### Personal / Professional Development
 Title | Author | Rating
 :-------- | :----- | :-------
 Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman | Hoover, Dave | 3
@@ -59,6 +59,7 @@ Go Put Your Strengths to Work | Buckingham, Marcus | 2
 How to Talk to Anyone | Leil Lowndes | 5
 How to Win Friends and Influence People | Dale Carnegie | 2
 Land the Tech Job You Love | Lester, Andy | 2
+Man's Search for Meaning | Frankl, Viktor | 5
 Now, Discover Your Strengths | Buckingham, Marcus | 5
 Outliers: The Story of Success | Gladwell, Malcolm | 4
 Practices of an Agile Developer: Working in the Real World | Venkat Subramaniam | 4
