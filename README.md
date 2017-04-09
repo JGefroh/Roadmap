@@ -28,7 +28,7 @@ Growth Hacker Marketing | Holiday, Ryan | 3
 The Hard Thing About Hard Things | Horowitz, Ben | 5
 The Lean Startup | Eric Ries | 4
 The Wide Lens | Ron Adner | 5
-Venture Deals | Feld, Brad 5
+Venture Deals | Feld, Brad | 5
 Zero to One | Thiel, Peter | 5
 
 
