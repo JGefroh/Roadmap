@@ -16,7 +16,6 @@ Continuous Delivery | Humble, Jez
 Title | Author
 :-------- | :-----
 The 4-hour Chef | Ferris, Timothy
-The 7 Habits of Highly Effective People | Covey, Stephen
 
 ---
 ### Books I've read
@@ -65,6 +64,7 @@ Now, Discover Your Strengths | Buckingham, Marcus | 5
 Outliers: The Story of Success | Gladwell, Malcolm | 4
 Practices of an Agile Developer: Working in the Real World | Venkat Subramaniam | 4
 Pragmatic Thinking and Learning: Refactor Your Wetware | Hunt, Andy | 3
+The 7 Habits of Highly Effective People | Covey, Stephen | 4
 The Clean Coder: A Code of Conduct for Professional Programmers | Martin, Robert C. | 3
 The Developer's Code | Ka Wai Cheung | 5
 The Passionate Programmer: Creating a Remarkable Career in Software Development | Fowler, Chad | 3
