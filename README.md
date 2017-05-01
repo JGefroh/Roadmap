@@ -120,3 +120,8 @@ Patterns of Enterprise Application Architecture | Fowler, Martin | 5
 Implementing Domain-Driven Design | Vernon, Vaughn | 4
 SQL Antipatterns: Avoiding the Pitfalls of Database Programming | Karwin, Bill | 5
 Web Scalability for Startup Engineers | 	Ejsmont, Artur | 5
+
+##### Behavior / Psychology / Training / People
+Title | Author | Rating
+:-------- | :----- | :-------
+Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
