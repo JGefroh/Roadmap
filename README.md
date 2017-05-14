@@ -16,6 +16,8 @@ Continuous Delivery | Humble, Jez
 Title | Author
 :-------- | :-----
 The 4-hour Chef | Ferris, Timothy
+Thinking Fast and Slow | Kahneman, Daniel
+The Compassionate Samurai | Klemmer, Brian
 
 ---
 ### Books I've read
