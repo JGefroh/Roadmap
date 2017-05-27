@@ -17,7 +17,6 @@ Title | Author
 :-------- | :-----
 The 4-hour Chef | Ferris, Timothy
 Thinking Fast and Slow | Kahneman, Daniel
-The Compassionate Samurai | Klemmer, Brian
 
 ---
 ### Books I've read
@@ -68,6 +67,7 @@ Practices of an Agile Developer: Working in the Real World | Venkat Subramaniam 
 Pragmatic Thinking and Learning: Refactor Your Wetware | Hunt, Andy | 3
 The 7 Habits of Highly Effective People | Covey, Stephen | 4
 The Clean Coder: A Code of Conduct for Professional Programmers | Martin, Robert C. | 3
+The Compassionate Samurai | Klemmer, Brian | 2
 The Developer's Code | Ka Wai Cheung | 5
 The Passionate Programmer: Creating a Remarkable Career in Software Development | Fowler, Chad | 3
 The Pragmatic Programmer: From Journeyman to Master | Hunt, Andrew | 5
@@ -127,3 +127,4 @@ Web Scalability for Startup Engineers | 	Ejsmont, Artur | 5
 Title | Author | Rating
 :-------- | :----- | :-------
 Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
+Drive: The Surprising Truth About What Motivates Us | Pink, Daniel | 5
