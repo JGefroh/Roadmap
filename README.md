@@ -8,6 +8,7 @@ Here's a list of books I've read/been reading/will read. Any book/priority sugge
 ### Planning to read
 Title | Author
 :-------- | :-----
+Nudge | Thaler, Richard
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
 
@@ -16,6 +17,7 @@ Continuous Delivery | Humble, Jez
 Title | Author
 :-------- | :-----
 The 4-hour Chef | Ferris, Timothy
+The Introvert Entrepreneur | Buelow, Beth
 
 ---
 ### Books I've read
