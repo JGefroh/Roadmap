@@ -16,7 +16,6 @@ Continuous Delivery | Humble, Jez
 Title | Author
 :-------- | :-----
 The 4-hour Chef | Ferris, Timothy
-Thinking Fast and Slow | Kahneman, Daniel
 
 ---
 ### Books I've read
@@ -128,3 +127,4 @@ Title | Author | Rating
 :-------- | :----- | :-------
 Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
 Drive: The Surprising Truth About What Motivates Us | Pink, Daniel | 5
+Thinking Fast and Slow | Kahneman, Daniel | 5
