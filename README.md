@@ -17,7 +17,6 @@ Continuous Delivery | Humble, Jez
 Title | Author
 :-------- | :-----
 The 4-hour Chef | Ferris, Timothy
-The Introvert Entrepreneur | Buelow, Beth
 
 ---
 ### Books I've read
@@ -70,6 +69,7 @@ The 7 Habits of Highly Effective People | Covey, Stephen | 4
 The Clean Coder: A Code of Conduct for Professional Programmers | Martin, Robert C. | 3
 The Compassionate Samurai | Klemmer, Brian | 2
 The Developer's Code | Ka Wai Cheung | 5
+The Introvert Entrepreneur | Buelow, Beth | 4
 The Passionate Programmer: Creating a Remarkable Career in Software Development | Fowler, Chad | 3
 The Pragmatic Programmer: From Journeyman to Master | Hunt, Andrew | 5
 Tools of Titans | Ferris, Timothy | 3
