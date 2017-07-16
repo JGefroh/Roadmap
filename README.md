@@ -88,6 +88,7 @@ Working Effectively with Legacy Code | Feathers, Michael | 3
 HTML and CSS: Design and Build Websites | Duckett, Jon | 2
 Javascript: The Good Parts | Crockford, Douglas | 3
 JavaScript and JQuery: Interactive Front-End Web Development | Duckett, Jon | 2
+Metaprogramming Ruby | Perrotta, Paolo | 3
 
 
 ##### UX
