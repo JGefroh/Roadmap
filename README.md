@@ -47,6 +47,7 @@ Scaling Teams | Grosse, Alexander | 5
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency | DeMarco, Tom | 3
 The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded | Watkins, Michael D. | 2
 The Five Dysfunctions of a Team | Lencioni, Patrick | 4
+The Five Temptations of a CEO | Lencioni, Patrick | 3
 The Mythical Man Month: Essays on Software Engineering | Brooks Jr., Frederick | 2
 The One Thing You Need to Know | Buckingham, Marcus | 3
 Turn the Ship Around!: A True Story of Turning Followers into Leaders | Marquet, David | 5
@@ -131,4 +132,6 @@ Title | Author | Rating
 :-------- | :----- | :-------
 Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
 Drive: The Surprising Truth About What Motivates Us | Pink, Daniel | 5
+Freakonomics | Levitt, Steven | 5
+Superfreakonomics | Levitt, Steven | 5
 Thinking Fast and Slow | Kahneman, Daniel | 5
