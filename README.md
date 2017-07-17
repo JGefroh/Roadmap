@@ -18,6 +18,7 @@ The Art of Asking | Palmer, Amanda
 ### Currently reading
 Title | Author
 :-------- | :-----
+Good to Great | Collins, Jim
 
 ---
 ### Books I've read
