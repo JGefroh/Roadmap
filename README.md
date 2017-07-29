@@ -18,7 +18,6 @@ The Art of Asking | Palmer, Amanda
 ### Currently reading
 Title | Author
 :-------- | :-----
-Good to Great | Collins, Jim
 
 ---
 ### Books I've read
@@ -26,6 +25,7 @@ Good to Great | Collins, Jim
 ##### Business Strategy
 Title | Author | Rating
 :-------- | :----- | :-------
+Good to Great | Collins, Jim | 5
 Growth Hacker Marketing | Holiday, Ryan | 3
 The Hard Thing About Hard Things | Horowitz, Ben | 5
 The Lean Startup | Eric Ries | 4
