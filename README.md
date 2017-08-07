@@ -39,6 +39,7 @@ Title | Author | Rating
 :-------- | :----- | :-------
 First, Break All the Rules | Buckingham, Marcus | 5
 Corps Business: The 30 Management Principles of the U.S. Marines | Freedman, David | 5
+Death by Meeting: A Leadership Fable | Lencioni, Patrick | 5
 Debugging Teams: Better Productivity Through Collaboration | Fitzpatrick, Brian | 5
 High Output Management | Grove, Andrew S. | 4
 Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Sinek, Simon | 5
