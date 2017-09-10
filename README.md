@@ -9,15 +9,14 @@ Here's a list of books I've read/been reading/will read. Any book/priority sugge
 Title | Author
 :-------- | :-----
 The 4-hour Chef | Ferris, Timothy
-Nudge | Thaler, Richard
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
-The Art of Asking | Palmer, Amanda
 
 ---
 ### Currently reading
 Title | Author
 :-------- | :-----
+Nudge | Thaler, Richard
 
 ---
 ### Books I've read
@@ -70,6 +69,7 @@ Outliers: The Story of Success | Gladwell, Malcolm | 4
 Practices of an Agile Developer: Working in the Real World | Venkat Subramaniam | 4
 Pragmatic Thinking and Learning: Refactor Your Wetware | Hunt, Andy | 3
 The 7 Habits of Highly Effective People | Covey, Stephen | 4
+The Art of Asking | Palmer, Amanda | 3
 The Clean Coder: A Code of Conduct for Professional Programmers | Martin, Robert C. | 3
 The Compassionate Samurai | Klemmer, Brian | 2
 The Developer's Code | Ka Wai Cheung | 5
@@ -129,11 +129,12 @@ Implementing Domain-Driven Design | Vernon, Vaughn | 4
 SQL Antipatterns: Avoiding the Pitfalls of Database Programming | Karwin, Bill | 5
 Web Scalability for Startup Engineers | 	Ejsmont, Artur | 5
 
-##### Behavior / Psychology / Training / People
+##### Behavior / Psychology / Training / People / Economics
 Title | Author | Rating
 :-------- | :----- | :-------
 Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
 Drive: The Surprising Truth About What Motivates Us | Pink, Daniel | 5
 Freakonomics | Levitt, Steven | 5
 Superfreakonomics | Levitt, Steven | 5
+The Tipping Point | Gladwell, Malcolm | 5
 Thinking Fast and Slow | Kahneman, Daniel | 5
