@@ -12,12 +12,13 @@ The 4-hour Chef | Ferris, Timothy
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
 Designing Data-Intensive Applications | Kleppman, Martin
+Nudge | Thaler, Richard
+Clean Architecture: A Craftsman's Guide to Software Structure and Design | Martin, Robert C.
 
 ---
 ### Currently reading
 Title | Author
 :-------- | :-----
-Nudge | Thaler, Richard
 
 ---
 ### Books I've read
