@@ -8,7 +8,7 @@ Here's a list of books I've read/been reading/will read. Any book/priority sugge
 ### Planning to read
 Title | Author
 :-------- | :-----
-The 4-hour Chef | Ferris, Timothy
+The 4-Hour Chef | Ferris, Timothy
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
 Designing Data-Intensive Applications | Kleppman, Martin
