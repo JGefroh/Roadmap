@@ -125,7 +125,7 @@ The Phoenix Project | Kim, Gene | 5
 ##### Architecture / Design
 Title | Author | Rating
 :-------- | :----- | :-------
-Clean Architecture: A Craftsman's Guide to Software Structure and Design | Martin, Robert C.
+Clean Architecture: A Craftsman's Guide to Software Structure and Design | Martin, Robert C. | 3
 Implementing Domain-Driven Design | Vernon, Vaughn | 4
 Patterns of Enterprise Application Architecture | Fowler, Martin | 5
 SQL Antipatterns: Avoiding the Pitfalls of Database Programming | Karwin, Bill | 5
