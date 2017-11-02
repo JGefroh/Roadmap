@@ -13,7 +13,6 @@ Agile Software Development: Principles, Patterns and Practices | Martin, Robert 
 Continuous Delivery | Humble, Jez
 Designing Data-Intensive Applications | Kleppman, Martin
 Nudge | Thaler, Richard
-Clean Architecture: A Craftsman's Guide to Software Structure and Design | Martin, Robert C.
 
 ---
 ### Currently reading
@@ -126,8 +125,9 @@ The Phoenix Project | Kim, Gene | 5
 ##### Architecture / Design
 Title | Author | Rating
 :-------- | :----- | :-------
-Patterns of Enterprise Application Architecture | Fowler, Martin | 5
+Clean Architecture: A Craftsman's Guide to Software Structure and Design | Martin, Robert C.
 Implementing Domain-Driven Design | Vernon, Vaughn | 4
+Patterns of Enterprise Application Architecture | Fowler, Martin | 5
 SQL Antipatterns: Avoiding the Pitfalls of Database Programming | Karwin, Bill | 5
 Web Scalability for Startup Engineers | 	Ejsmont, Artur | 5
 
