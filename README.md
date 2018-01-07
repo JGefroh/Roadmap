@@ -11,13 +11,11 @@ Title | Author
 The 4-Hour Chef | Ferris, Timothy
 Agile Software Development: Principles, Patterns and Practices | Martin, Robert C.
 Continuous Delivery | Humble, Jez
-Nudge | Thaler, Richard
 
 ---
 ### Currently reading
 Title | Author
 :-------- | :-----
-Designing Data-Intensive Applications | Kleppman, Martin
 
 ---
 ### Books I've read
@@ -126,6 +124,7 @@ The Phoenix Project | Kim, Gene | 5
 Title | Author | Rating
 :-------- | :----- | :-------
 Clean Architecture: A Craftsman's Guide to Software Structure and Design | Martin, Robert C. | 3
+Designing Data-Intensive Applications | Kleppman, Martin | 4
 Implementing Domain-Driven Design | Vernon, Vaughn | 4
 Patterns of Enterprise Application Architecture | Fowler, Martin | 5
 SQL Antipatterns: Avoiding the Pitfalls of Database Programming | Karwin, Bill | 5
@@ -137,6 +136,7 @@ Title | Author | Rating
 Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
 Drive: The Surprising Truth About What Motivates Us | Pink, Daniel | 5
 Freakonomics | Levitt, Steven | 5
+Nudge | Thaler, Richard | 4
 Superfreakonomics | Levitt, Steven | 5
 The Tipping Point | Gladwell, Malcolm | 5
 Thinking Fast and Slow | Kahneman, Daniel | 5
