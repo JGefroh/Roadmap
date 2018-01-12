@@ -16,6 +16,7 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
+Extreme Ownership: How US Navy SEALs Lead and Win | Willink, Jocko
 
 ---
 ### Books I've read
@@ -45,6 +46,7 @@ Managing Humans | Lopp, Michael | 3
 Peopleware: Productive Projects and Teams | DeMarco, Tom | 5
 Scaling Teams | Grosse, Alexander | 5
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency | DeMarco, Tom | 3
+The Advantage | Lencioni, Patrick | 3
 The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded | Watkins, Michael D. | 2
 The Five Dysfunctions of a Team | Lencioni, Patrick | 4
 The Five Temptations of a CEO | Lencioni, Patrick | 3
