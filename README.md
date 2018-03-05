@@ -16,6 +16,7 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
+The Art of Scalability | Abbott, Martin
 
 ---
 ### Books I've read
@@ -132,12 +133,13 @@ Patterns of Enterprise Application Architecture | Fowler, Martin | 5
 SQL Antipatterns: Avoiding the Pitfalls of Database Programming | Karwin, Bill | 5
 Web Scalability for Startup Engineers | 	Ejsmont, Artur | 5
 
-##### Behavior / Psychology / Training / People / Economics
+##### Behavior / Psychology / Training / People / Economics / Etc.
 Title | Author | Rating
 :-------- | :----- | :-------
 Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
 Drive: The Surprising Truth About What Motivates Us | Pink, Daniel | 5
 Freakonomics | Levitt, Steven | 5
+Intuition Pumps and Other Tools for Thinking | Dennett, Daniel | 4
 Nudge | Thaler, Richard | 4
 Superfreakonomics | Levitt, Steven | 5
 The Tipping Point | Gladwell, Malcolm | 5
