@@ -16,7 +16,8 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
-The Art of Scalability | Abbott, Martin
+The Marine Corps Way: Using Maneuver Warfare to Lead a Winning Organization | Santamaria, Jason A.
+Leadership on the Line: Staying Alive Through the Dangers of Change  |  Heifetz, Ronald
 
 ---
 ### Books I've read
@@ -49,6 +50,7 @@ Scaling Teams | Grosse, Alexander | 5
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency | DeMarco, Tom | 3
 The Advantage | Lencioni, Patrick | 3
 The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded | Watkins, Michael D. | 2
+The Culture Code: The Secrets of Highly Successful Groups | Coyle, Daniel | 5
 The Five Dysfunctions of a Team | Lencioni, Patrick | 4
 The Five Temptations of a CEO | Lencioni, Patrick | 3
 The Mythical Man Month: Essays on Software Engineering | Brooks Jr., Frederick | 2
@@ -120,6 +122,7 @@ Extreme Programming Explained: Embrace Change | Beck, Kent | 5
 Software Project Survival Guide | McConnell, Steve | 3
 The Agile Samurai: How Agile Masters Deliver Great Software | Rasmusson, Jonathan | 5
 The Art of Agile Development | Shore, James | 4
+The Art of Scalability | Abbott, Martin | 4
 The Phoenix Project | Kim, Gene | 5
 
 
