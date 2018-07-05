@@ -139,6 +139,7 @@ Web Scalability for Startup Engineers | 	Ejsmont, Artur | 5
 ##### Behavior / Psychology / Training / People / Economics / Etc.
 Title | Author | Rating
 :-------- | :----- | :-------
+Blink: The Power of Thinking Without Thinking | Gladwell, Malcolm | 5 
 Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
 Drive: The Surprising Truth About What Motivates Us | Pink, Daniel | 5
 Freakonomics | Levitt, Steven | 5
