@@ -16,7 +16,6 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
-The Marine Corps Way: Using Maneuver Warfare to Lead a Winning Organization | Santamaria, Jason A.
 Leadership on the Line: Staying Alive Through the Dangers of Change  |  Heifetz, Ronald
 
 ---
@@ -53,6 +52,7 @@ The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter,
 The Culture Code: The Secrets of Highly Successful Groups | Coyle, Daniel | 5
 The Five Dysfunctions of a Team | Lencioni, Patrick | 4
 The Five Temptations of a CEO | Lencioni, Patrick | 3
+The Marine Corps Way: Using Maneuver Warfare to Lead a Winning Organization | Santamaria, Jason A. | 5
 The Mythical Man Month: Essays on Software Engineering | Brooks Jr., Frederick | 2
 The One Thing You Need to Know | Buckingham, Marcus | 3
 Turn the Ship Around!: A True Story of Turning Followers into Leaders | Marquet, David | 5
@@ -139,7 +139,7 @@ Web Scalability for Startup Engineers | 	Ejsmont, Artur | 5
 ##### Behavior / Psychology / Training / People / Economics / Etc.
 Title | Author | Rating
 :-------- | :----- | :-------
-Blink: The Power of Thinking Without Thinking | Gladwell, Malcolm | 5 
+Blink: The Power of Thinking Without Thinking | Gladwell, Malcolm | 5
 Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
 Drive: The Surprising Truth About What Motivates Us | Pink, Daniel | 5
 Freakonomics | Levitt, Steven | 5
@@ -147,4 +147,5 @@ Intuition Pumps and Other Tools for Thinking | Dennett, Daniel | 4
 Nudge | Thaler, Richard | 4
 Superfreakonomics | Levitt, Steven | 5
 The Tipping Point | Gladwell, Malcolm | 5
+The Wisdom of Psychopaths: What Saints, Spies, and Serial Killers Can Teach Us About Success | Dutton, Kevin | 3
 Thinking Fast and Slow | Kahneman, Daniel | 5
