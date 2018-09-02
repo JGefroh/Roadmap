@@ -16,7 +16,6 @@ Continuous Delivery | Humble, Jez
 ### Currently reading
 Title | Author
 :-------- | :-----
-Leadership on the Line: Staying Alive Through the Dangers of Change  |  Heifetz, Ronald
 
 ---
 ### Books I've read
@@ -43,10 +42,12 @@ Debugging Teams: Better Productivity Through Collaboration | Fitzpatrick, Brian 
 Extreme Ownership: How US Navy SEALs Lead and Win | Willink, Jocko | 5
 High Output Management | Grove, Andrew S. | 4
 Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Sinek, Simon | 5
+Leadership on the Line: Staying Alive Through the Dangers of Change  |  Heifetz, Ronald | 3
 Managing Humans | Lopp, Michael | 3
 Peopleware: Productive Projects and Teams | DeMarco, Tom | 5
 Scaling Teams | Grosse, Alexander | 5
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency | DeMarco, Tom | 3
+Team of Teams | McChrystal, Stanley | 5
 The Advantage | Lencioni, Patrick | 3
 The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded | Watkins, Michael D. | 2
 The Culture Code: The Secrets of Highly Successful Groups | Coyle, Daniel | 5
