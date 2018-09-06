@@ -146,6 +146,7 @@ Don't Shoot the Dog: The New Art of Teaching and Training | Pryor, Karen | 5
 Drive: The Surprising Truth About What Motivates Us | Pink, Daniel | 5
 Freakonomics | Levitt, Steven | 5
 Intuition Pumps and Other Tools for Thinking | Dennett, Daniel | 4
+Left of Bang | Van Horne, Patrick | 5
 Nudge | Thaler, Richard | 4
 Superfreakonomics | Levitt, Steven | 5
 The Tipping Point | Gladwell, Malcolm | 5
