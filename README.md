@@ -44,6 +44,7 @@ High Output Management | Grove, Andrew S. | 4
 Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Sinek, Simon | 5
 Leadership on the Line: Staying Alive Through the Dangers of Change  |  Heifetz, Ronald | 3
 Managing Humans | Lopp, Michael | 3
+One Mission: How Leaders Build a Team of Teams | Fussell, Chris | 5
 Peopleware: Productive Projects and Teams | DeMarco, Tom | 5
 Scaling Teams | Grosse, Alexander | 5
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency | DeMarco, Tom | 3
