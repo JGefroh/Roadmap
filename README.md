@@ -55,6 +55,7 @@ The Culture Code: The Secrets of Highly Successful Groups | Coyle, Daniel | 5
 The Five Dysfunctions of a Team | Lencioni, Patrick | 4
 The Five Temptations of a CEO | Lencioni, Patrick | 3
 The Marine Corps Way: Using Maneuver Warfare to Lead a Winning Organization | Santamaria, Jason A. | 5
+The Mission, The Men, and Me | Blaber, Pete | 3
 The Mythical Man Month: Essays on Software Engineering | Brooks Jr., Frederick | 2
 The One Thing You Need to Know | Buckingham, Marcus | 3
 Turn the Ship Around!: A True Story of Turning Followers into Leaders | Marquet, David | 5
