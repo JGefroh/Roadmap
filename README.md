@@ -23,6 +23,7 @@ Title | Author
 ##### Business Strategy
 Title | Author | Rating
 :-------- | :----- | :-------
+Execution: The Discipline of Getting Things Done | Bossidy, Larry | 2
 Good to Great | Collins, Jim | 5
 Growth Hacker Marketing | Holiday, Ryan | 3
 The Hard Thing About Hard Things | Horowitz, Ben | 5
