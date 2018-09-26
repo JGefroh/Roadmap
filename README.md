@@ -21,7 +21,7 @@ Title | Author
 ### Books I've read
 
 ##### Business Strategy
-Title | Author | Rating
+Title | Author | Ratingbn
 :-------- | :----- | :-------
 Execution: The Discipline of Getting Things Done | Bossidy, Larry | 2
 Good to Great | Collins, Jim | 5
@@ -37,6 +37,7 @@ Zero to One | Thiel, Peter | 5
 Title | Author | Rating
 :-------- | :----- | :-------
 First, Break All the Rules | Buckingham, Marcus | 5
+Backbone: History, Traditions, and Leadership Lessons of Marine Corps NCOs | Dye, Julia | 5
 Corps Business: The 30 Management Principles of the U.S. Marines | Freedman, David | 5
 Death by Meeting: A Leadership Fable | Lencioni, Patrick | 5
 Debugging Teams: Better Productivity Through Collaboration | Fitzpatrick, Brian | 5
