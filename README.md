@@ -41,6 +41,7 @@ Backbone: History, Traditions, and Leadership Lessons of Marine Corps NCOs | Dye
 Corps Business: The 30 Management Principles of the U.S. Marines | Freedman, David | 5
 Death by Meeting: A Leadership Fable | Lencioni, Patrick | 5
 Debugging Teams: Better Productivity Through Collaboration | Fitzpatrick, Brian | 5
+The Dichotomy of Leadership | Willink, Jocko | 3
 Extreme Ownership: How US Navy SEALs Lead and Win | Willink, Jocko | 5
 High Output Management | Grove, Andrew S. | 4
 Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Sinek, Simon | 5
