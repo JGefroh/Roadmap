@@ -70,6 +70,7 @@ Turn the Ship Around!: A True Story of Turning Followers into Leaders | Marquet,
 Title | Author | Rating
 :-------- | :----- | :-------
 Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman | Hoover, Dave | 3
+Crucial Conversations | Grenny, Joseph | 5
 Driving Technical Change | Terrence Ryan | 3
 Go Put Your Strengths to Work | Buckingham, Marcus | 2
 How to Talk to Anyone | Leil Lowndes | 5
