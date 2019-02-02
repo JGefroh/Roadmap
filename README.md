@@ -51,6 +51,7 @@ Managing Humans | Lopp, Michael | 3
 Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs | Doerr, John | 3
 One Mission: How Leaders Build a Team of Teams | Fussell, Chris | 5
 Peopleware: Productive Projects and Teams | DeMarco, Tom | 5
+Radical Candor | Scott, Kim | 5
 Scaling Teams | Grosse, Alexander | 5
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency | DeMarco, Tom | 3
 Team of Teams | McChrystal, Stanley | 5
