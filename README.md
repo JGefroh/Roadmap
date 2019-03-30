@@ -89,6 +89,7 @@ The Compassionate Samurai | Klemmer, Brian | 2
 The Developer's Code | Ka Wai Cheung | 5
 The Introvert Entrepreneur | Buelow, Beth | 4
 The Passionate Programmer: Creating a Remarkable Career in Software Development | Fowler, Chad | 3
+The Power of Habit | Duhigg, Charles | 5
 The Pragmatic Programmer: From Journeyman to Master | Hunt, Andrew | 5
 The Warrior Ethos | Pressfield, Steven | 2
 Tools of Titans | Ferris, Timothy | 3
