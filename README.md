@@ -159,6 +159,7 @@ Freakonomics | Levitt, Steven | 5
 Intuition Pumps and Other Tools for Thinking | Dennett, Daniel | 4
 Left of Bang | Van Horne, Patrick | 5
 Nudge | Thaler, Richard | 4
+Principles: Life and Work | Dalio, Ray | 5
 Superfreakonomics | Levitt, Steven | 5
 The Tipping Point | Gladwell, Malcolm | 5
 The Wisdom of Psychopaths: What Saints, Spies, and Serial Killers Can Teach Us About Success | Dutton, Kevin | 3
