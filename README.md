@@ -36,13 +36,14 @@ Zero to One | Thiel, Peter | 5
 ##### Management and Leadership
 Title | Author | Rating
 :-------- | :----- | :-------
-First, Break All the Rules | Buckingham, Marcus | 5
+Accelerate: Building and Scaling High Performing Technology Organizations | Forsgren, Nicole | 5
 Backbone: History, Traditions, and Leadership Lessons of Marine Corps NCOs | Dye, Julia | 5
 Corps Business: The 30 Management Principles of the U.S. Marines | Freedman, David | 5
 Death by Meeting: A Leadership Fable | Lencioni, Patrick | 5
 Debugging Teams: Better Productivity Through Collaboration | Fitzpatrick, Brian | 5
 The Dichotomy of Leadership | Willink, Jocko | 3
 Extreme Ownership: How US Navy SEALs Lead and Win | Willink, Jocko | 5
+First, Break All the Rules | Buckingham, Marcus | 5
 High Output Management | Grove, Andrew S. | 4
 Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Sinek, Simon | 5
 Leadership on the Line: Staying Alive Through the Dangers of Change  |  Heifetz, Ronald | 3
